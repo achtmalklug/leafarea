@@ -1,0 +1,4 @@
+[General]
+minObjSize=1000
+minRefSize=1000
+resizeImg=700
